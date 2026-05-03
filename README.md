@@ -221,8 +221,10 @@ This project demonstrates real-world data engineering capabilities:
 
 ## 👨‍💻 Author
 
-**Wildan Septian**
-GitHub: https://github.com/myahezz
+* **Nama**      : Wildan Septian
+* **GitHub**    : [myahezz](https://github.com/myahezz)
+* **LinkedIn**  : [wildanseptian](https://www.linkedin.com/in/wildanseptian)
+* **Instagram** : [myahezzz](https://www.instagram.com/myahezzz/)
 
 ---
 
