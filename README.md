@@ -79,9 +79,6 @@ An end-to-end **ETL pipeline** built with Python to collect product data via **w
 ├── google-sheets-api.json     # Google Sheets credential (excluded)
 ├── requirements.txt           # Dependencies
 ├── submission.txt             # Submission metadata
-├── lampiran/                  # Screenshots / documentation
-│   ├── preview-google-sheets.png
-│   └── preview-csv.png
 └── README.md
 ```
 
